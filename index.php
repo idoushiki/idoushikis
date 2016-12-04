@@ -4,7 +4,7 @@
 echo "
 <html>
 <body>
-aaa
+<input type="submit" name="submit" value="a">
 </body>
 </html>
 ";
