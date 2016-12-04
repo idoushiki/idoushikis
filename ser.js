@@ -13,7 +13,7 @@ if (us && pa) {
 
 ap.use(ex.logger('dev'));
 ap.use(ex.compress());
-ap.use(ex.static(__dirname + '/public'));
+ap.use(ex.static(__dirname + '/html1'));
 
 ap.listen(ap.get('port'), function() {
   console.log('Server listening on port %s', ap.get('port'));
