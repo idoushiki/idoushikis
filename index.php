@@ -3,11 +3,18 @@
 
 echo "
 
+
+
+
 <html>
 <body>
 
+
+<title>idoushikis</title>
+
+
 <b>
-<a href=\"https://github.com/idoushiki/idoushikis/html1/index.html/\">idoushikis</a>
+<a href=\"https://github.com/idoushiki/idoushikis/php1/index.php/\">idoushikis</a>
 </b>
 
 </body>
