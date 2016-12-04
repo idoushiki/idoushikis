@@ -4,7 +4,7 @@
 echo "
 <html>
 <body>
-<input type="submit" name="submit" value="a">
+<img src="http://idoushiki.web.fc2.com/a/aa/kotatu.png">
 </body>
 </html>
 ";
