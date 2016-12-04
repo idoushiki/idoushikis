@@ -12,13 +12,4 @@ echo "
 </html>
 ";
 
-if(isset($_POST['t'])){
-
-
-$data['t'] = $_POST['t'];
-$a=$data+1;
-}
-
-
-echo $a;
 ?>
